@@ -15,6 +15,7 @@
 
 ### 멘토
 |이름|이메일|
+|:--:|:--:|
 |김경남|kkyy0126@naver.com|
 |박동희|parkdonghee1129@gmail.com|
 |홍예지|quasar1223@naver.com|
