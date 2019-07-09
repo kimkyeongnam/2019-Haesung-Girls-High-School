@@ -15,8 +15,8 @@
 <br>
 
 ## 멘토
-|이름|이메일|
-|:--:|:--:|
-|김경남|kkyy0126@naver.com|
-|박동희|parkdonghee1129@gmail.com|
-|홍예지|quasar1223@naver.com|
+|이름|학과|학번|이메일|기타|
+|:--:|:--:|:--:|:--:|:--:|
+|홍예지|소프트웨어학과|17학번|quasar1223@naver.com|팀장|
+|김경남|소프트웨어학과|17학번|kkyy0126@naver.com||
+|박동희|소프트웨어학과|18학번|parkdonghee1129@gmail.com||
